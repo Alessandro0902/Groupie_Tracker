@@ -10,7 +10,7 @@ N'hésitez pas a clone le projet.
 
 ## Pré-requis
 -Visual Studio Code \
--Live Server \
+-Live Server 
 
 ## Démarage
 Une fois les prérequis installer et le projet cloner: \
