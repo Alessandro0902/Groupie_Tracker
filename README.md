@@ -10,11 +10,12 @@ N'hésitez pas a clone le projet.
 
 ## Pré-requis
 -Visual Studio Code \
+-Package Golang & Java Script \
 -Live Server 
 
 ## Démarage
 Une fois les prérequis installer et le projet cloner: \
--Lancer le serveur Golang
+-Lancer le serveur Golang\
 -Lancer Live Server
 
 Versions 1.0
